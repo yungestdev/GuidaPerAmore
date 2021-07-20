@@ -1,8 +1,5 @@
 body{
-    
+    width: 2400px;
+    height: 1080px;
 }
 
-.cinquanta{
-    width: 50%; height: 700px;
-}
-.cinquanta-sinistra{background-color: black;}
