@@ -1,3 +1,8 @@
 body{
     background-color: black;
 }
+
+.cinquanta{
+    width: 50%; height: 700px;
+}
+.cinquanta-sinistra{background-color: black;}
